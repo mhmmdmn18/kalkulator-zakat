@@ -1,6 +1,6 @@
-# Kalkulator Zakat
+# Zakat Calculator
 
-- Dibuat menggunakan Java Netbeans dengan konsep OOP dan GUI
-- Program Kalkulator Zakat merupakan program untuk menghitung zakat yang harus dikeluarkan seseorang
-- Zakat yang dihitung di program ini mencakup Zakat Fitrah, Zakat Penghasilan, dan Zakat Harta
-- Untuk memenuhi nilai Ujian Akhir Semester mata kuliah Pemrograman Berorientasi Objek
+- Created using Java Netbeans with the concept of OOP and GUI
+- Zakat Calculator Program is a program to calculate the zakat that must be paid by a person.
+- Zakat calculated in this program includes Zakat Fitrah, Zakat on Income, and Zakat on Assets.
+- To fulfill the value of the Final Semester Examination of the "Object Oriented Programming" course
